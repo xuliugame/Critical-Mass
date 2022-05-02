@@ -19,9 +19,11 @@ Just watch a lot of youtube video and google some method. And review the demo fr
 
 baseReact Project
 -Describe
+
 My first react assignment. just about how to use base react stuff.
 
 -Inspiration
+
 Just watch some video about begining of react.
 
 Focus-If you were given the time and resources to build/learn anything you wanted during your first 6 months at CM, where would you choose to focus your efforts?
@@ -29,8 +31,10 @@ For me , I think first six months or first year is most important times. Because
 
 
 Code Challenge
+
 https://drive.google.com/file/d/1mpRLFP9vw9YpngRMhu6UHw2-dqPGhCa8/view?usp=sharing
 
 npm install
+
 npm start
 
