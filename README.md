@@ -25,4 +25,4 @@ My first react assignment. just about how to use base react stuff.
 Just watch some video about begining of react.
 
 Focus-If you were given the time and resources to build/learn anything you wanted during your first 6 months at CM, where would you choose to focus your efforts?
-For me , I think first six months is most important times.                                                                                           
+For me , I think first six months or first year is most important times. Because I'm junior level develper don't have many experiment, and there lot project I can't handle by myself. I think first six months is about to learning everything and add more experment when you working some project. What am I will foucus is more about framework, like React, Angular. Because the only experiment I have is on the Mthree Training program. Because college will not teach you any framework, so I need learn it by myself. So, If given the time and resources to build/learn anything I wanted during your first 6 months at CM I think the first choice is about to learn the framewrok like React or Angularand and do the any task about using it. 
